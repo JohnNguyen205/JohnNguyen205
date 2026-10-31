@@ -4,8 +4,6 @@
   <img src="banner.gif" alt="Nguyễn Văn Nam, Embedded intern at BGSV, Robotics & AI at HCMUTE. A line-drawn sports coupe accelerates through the gears, then brakes hard with ABS." width="1200">
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/namngguyen205) · [X](https://x.com/JohnnNg205) · [Email](mailto:ngvnam2005@gmail.com)
-
 Fourth-year **Robotics and Artificial Intelligence** student at **Ho Chi Minh City University of Technology and Engineering (HCMUTE)**, Faculty of Mechanical Engineering. Born in 2005, based in Ho Chi Minh City.
 
 I work across the whole robot: mechanical design and kinematics, STM32 firmware, and ROS 2 navigation on top. Outside of work, I'm a Porsche and BMW enthusiast.
