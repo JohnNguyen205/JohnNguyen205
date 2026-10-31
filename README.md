@@ -11,6 +11,7 @@ Fourth-year **Robotics and Artificial Intelligence** student at **Ho Chi Minh Ci
 Currently an **Embedded intern at Bosch Global Software Technologies Vietnam (BGSV)**, working on **steering and brake** systems and learning the **AUTOSAR** standard.
 
 I work across the whole robot: mechanical design and kinematics, STM32 firmware, and ROS 2 navigation on top. Outside of work, I'm a Porsche and BMW enthusiast.
+
 ### Selected work
 
 | Project | What I worked on |
