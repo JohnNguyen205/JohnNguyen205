@@ -13,6 +13,7 @@ I work across the whole robot: mechanical design and kinematics, STM32 firmware,
 | Project | What I worked on |
 | :--- | :--- |
 | [Delta Robot Design](https://github.com/JohnNguyen205/Delta-Robot-Design) | Ceiling-mounted 3-DOF Delta robot for 2 kg pick-and-place: closed-form kinematics in MATLAB, SolidWorks CAD and FEA with a minimum safety factor of 7.1. |
+| [SmartClass](https://github.com/supsenpaii/iot-classroom) | IoT classroom quiz system, team of 3: ESP32-C3 answer devices send answers over WebSocket to a Node.js + SQLite backend, with a live React dashboard. I worked on live activities, flashcards, reports and the AI study guide. |
 | [Robot Omni Navigation](https://github.com/JohnNguyen205/Robot-Omni-Navigation) | Omni-directional delivery robot in a simulated hospital, built on ROS 2 and Nav2, with a genetic algorithm that orders multi-room routes. |
 | [SLAM Navigation Robot](https://github.com/JohnNguyen205/SLAM-Navigation-Robot) | STM32F407 firmware for a mobile robot base (encoders, IMU, motor PID, UART bridge) that maps, localizes and navigates on ROS 2 Jazzy. |
 | [IRB 1300 in Unity](https://github.com/JohnNguyen205/Simulation-robot-IRB1300-on-Unity) | ABB IRB 1300 six-axis arm simulated in Unity, with forward and inverse kinematics checked against the measured pose. |
