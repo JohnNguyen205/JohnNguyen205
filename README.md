@@ -8,11 +8,9 @@
 
 Fourth-year **Robotics and Artificial Intelligence** student at **Ho Chi Minh City University of Technology and Engineering (HCMUTE)**, Faculty of Mechanical Engineering. Born in 2005, based in Ho Chi Minh City.
 
-Currently an **Embedded intern at Bosch Global Software Technologies Vietnam (BGSV)**, working on **steering and brake** systems and learning the **AUTOSAR** standard.
-
 I work across the whole robot: mechanical design and kinematics, STM32 firmware, and ROS 2 navigation on top. Outside of work, I'm a Porsche and BMW enthusiast.
 
-### Selected work
+### At HCMUTE
 
 | Project | What I worked on |
 | :--- | :--- |
@@ -21,6 +19,13 @@ I work across the whole robot: mechanical design and kinematics, STM32 firmware,
 | [SLAM Navigation Robot](https://github.com/JohnNguyen205/SLAM-Navigation-Robot) | STM32F407 firmware for a mobile robot base (encoders, IMU, motor PID, UART bridge) that maps, localizes and navigates on ROS 2 Jazzy. |
 | [IRB 1300 in Unity](https://github.com/JohnNguyen205/Simulation-robot-IRB1300-on-Unity) | ABB IRB 1300 six-axis arm simulated in Unity, with forward and inverse kinematics checked against the measured pose. |
 | UWB Localization | University research on Ultra-Wideband indoor positioning for mobile robots. |
+
+### At Bosch
+
+Embedded intern at **Bosch Global Software Technologies Vietnam (BGSV)**.
+
+- Steering and brake software
+- Learning the AUTOSAR standard
 
 ### Toolkit
 
