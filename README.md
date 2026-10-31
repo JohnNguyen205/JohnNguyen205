@@ -11,16 +11,6 @@ Fourth-year **Robotics and Artificial Intelligence** student at **Ho Chi Minh Ci
 Currently an **Embedded intern at Bosch Global Software Technologies Vietnam (BGSV)**, working on **steering and brake** systems and learning the **AUTOSAR** standard.
 
 I work across the whole robot: mechanical design and kinematics, STM32 firmware, and ROS 2 navigation on top. Outside of work, I'm a Porsche and BMW enthusiast.
-
-### At Bosch
-
-Steering and braking are safety-critical, so their software follows a strict path from idea to vehicle. I'm learning each stage of it:
-
-1. **Requirements:** what the function must do, written down and traced all the way to its tests.
-2. **Architecture:** the function is split into AUTOSAR Classic software components that talk through the RTE, while the basic software handles the ECU hardware.
-3. **Implementation:** embedded C running on the ECU.
-4. **Verification:** testing at every level of the V-model, from single units up to the integrated system.
-
 ### Selected work
 
 | Project | What I worked on |
